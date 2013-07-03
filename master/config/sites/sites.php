@@ -55,4 +55,4 @@ $sites['local.regent.alpha.org']          = 'regent.alpha.org';
 $sites['local.live.alpha.org']            = 'live.alpha.org';
 $sites['local.news.alpha.org']            = 'news.alpha.org';
 $sites['local.media.htb.org.uk']          = 'media.htb.org.uk';
-
+$sites['local.htb2.org.uk']               = 'htb2.org.uk';
